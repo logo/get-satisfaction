@@ -3,7 +3,7 @@
   "name": "get-satisfaction",
   "repo": "logo/get-satisfaction",
   "description": "The Get Satisfaction logo.",
-  "version": "0.0.2",
+  "version": "0.2.0",
   "license": "MIT",
   "styles": [
     "style.css"

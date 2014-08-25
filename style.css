@@ -1,0 +1,22 @@
+
+/**
+ * Get Satisfaction
+ */
+
+.logo[data-logo="Get Satisfaction"] {
+  width: 4.621176108em;
+  /* (174.53/40.6) * (1+.125-.05) - 0 */
+}
+
+.logo[data-logo="Get Satisfaction"] > * {
+  background-image: url(images/logo.svg);
+  margin: -.125em 0 .05em;
+}
+
+.logo[data-logo="Get Satisfaction"][data-color="black"] > * {
+  background-image: url(images/logo-black.svg);
+}
+
+.logo[data-logo="Get Satisfaction"][data-color="white"] > * {
+  background-image: url(images/logo-white.svg);
+}
